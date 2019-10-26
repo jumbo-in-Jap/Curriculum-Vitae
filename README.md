@@ -9,11 +9,12 @@
 |Name|kentaro haneda (jumbo)|
 |Qiita|[jumboOrNot](https://qiita.com/jumbOrNot)|
 |Twitter|[@jumboOrNot](https://twitter.com/jumboOrNot)|
+|Note|[@jumbos5](https://note.mu/jumos5)|
 
 ## School/Job history
 
-- 私立大学 情報科 大学院卒
-- 履歴書参照
+- 2914年 私立大学 情報科 大学院卒
+- 他は履歴書参照
   - 中途選考等で提示が合った場合にこちらから共有させていただきます
 
 ## Summary
@@ -145,7 +146,6 @@ KDDI研究所と共同研究で自由視点映像の研究に従事、ヒュー�
 - Go(Revel) -> Laravel + nuxt.jsに一人で全部置き換える
 - AppleTVアプリの課金対応
 - 学生向けにアプリ開発の塾を開催（生徒10名くらい）
-- 副業に興味あるエンジニアに自分のできない案件の斡旋（無償
 - TimeTicketでのチケット販売
 
 etc...
@@ -158,6 +158,7 @@ etc...
 | Date             | Event      | Details      |
 | :--------------- | :--------- | :----------- |
 | 2019/09/05-07 | iOSDC 2019 | 運営スタッフ |
+| 2018/04 ~  | SkyWay UG | 運営スタッフ |
 | 2018/08/30-09/02 | iOSDC 2018 | 運営スタッフ |
 | 2017/09/15-17    | iOSDC 2017 | 運営スタッフ |
 | 2016/09/15-17    | iOSDC 2016 | 運営スタッフ |

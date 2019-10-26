@@ -55,10 +55,16 @@
 
 - **ツール、その他**
   - Slack
+  - jira
+  - Confluence
+  - trello
+  - backlog
+  - GitLab
   - GitHub
   - CI/CD(Jenkins/CircleCI/BitriseCI)
   - Sketch
   - Figma
+  - CodeMagic
 
 
 ## Job details

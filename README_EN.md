@@ -67,12 +67,10 @@ Last Update 2019/10/26
 ### RareJob,inc（now）: 2016/06 ~
 
 I started to work as Mobile Engineer, and lauched Mobile app business.
-
-iOSエンジニアとして入社し、アプリ事業立ち上げ。
 I was in charge of development, marketing and maintenance. A team was set up according to the scale, and two app engineers were hired.
 Then, i expanded my working area Web / WebRTC / Design. Manages 16 people, including outsourcing.
 
-| 期間                         | 内容                                                                                                                                                                                                                                                                                          | 役割/開発チーム規模                |
+| Period                         | Content                                                                                                                                                                                                                                                                                          | Team                |
 | :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
 | 2016/06<br />〜<br />2018/3 | RareJob Native App Development and growrh                                                                                                                                                                            | iOSエンジニア 1名  |
 | 2018/04<br />〜<br />2019/3 | Frontend Team Leader                                                                                                                                                                            | iOSエンジニア 2名、フロントエンド2名  |
@@ -85,7 +83,7 @@ i started to work as Infrastructure Engineer.
 Then, i changed position to iOS Engineer and handled Vietnam development team.
 I was in charge of AppleTV App Development as PM.
 
-| 期間                         | 内容                                                                                                                                                                                                                                                                                          | 役割/開発チーム規模                |
+| Period                         | Content                                                                                                                                                                                                                                                                                          | Team                |
 | :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
 | 2014/04<br />〜<br />2015/3 | Infrastructure Engineer                                                                                                                                                                            | エンジニア 5名  |
 | 2015/04<br />〜<br />2016/4 | iOS App Engineer                                                                                                                                                                            | エンジニア 20名  |

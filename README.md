@@ -165,7 +165,10 @@ etc...
 
 資料毎に登壇しています
 
+古い方
 https://www.slideshare.net/kenjhaneda?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+
+新しい方
 https://speakerdeck.com/jumbo_ken
 
 ## 執筆歴

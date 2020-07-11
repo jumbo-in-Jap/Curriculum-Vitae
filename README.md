@@ -11,6 +11,10 @@
 |Twitter|[@jumboOrNot](https://twitter.com/jumboOrNot)|
 |Note|[@jumbos5](https://note.mu/jumos5)|
 
+- 30Y
+- 千葉生まれ、千葉育ち
+- 趣味 読書、プログラミング、お酒
+
 ## School/Job history
 
 - 2014年 私立大学 情報科 大学院卒

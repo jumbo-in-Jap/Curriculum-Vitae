@@ -9,7 +9,7 @@
 |Name|kentaro haneda (jumbo)|
 |Qiita|[jumboOrNot](https://qiita.com/jumbOrNot)|
 |Twitter|[@jumboOrNot](https://twitter.com/jumboOrNot)|
-|Note|[@jumbos5](https://note.mu/jumos5)|
+|note|[@jumbos5](https://note.mu/jumos5)|
 
 - 30Y
 - 千葉生まれ、千葉育ち

@@ -1,6 +1,6 @@
 # 職務経歴書
 
-最終更新 2020/07/13
+最終更新 2021/08/11
 
 ## 基本情報
 
@@ -11,26 +11,29 @@
 |Twitter|[@jumboOrNot](https://twitter.com/jumboOrNot)|
 |note|[@jumbos5](https://note.mu/jumos5)|
 
-- 30Y
+- 31Y
 - 千葉生まれ、千葉育ち
 - 趣味 読書、プログラミング、お酒
 
 ## School/Job history
 
-- 2014年 私立大学 情報科 大学院卒
+- 2014年 中央大学 電気電子情報通信工学科 大学院卒
 - 他は履歴書参照
   - 中途選考等で提示が合った場合にこちらから共有させていただきます
 
 ## Summary
 
 - ソフトウェアエンジニア/デザイナー/マネージャー/ディレクター
-- iOSエンジニア -> インフラエンジニア -> iOSエンジニア -> マネージャー
+- iOSエンジニア -> インフラエンジニア -> iOSエンジニア/Androidエンジニア/WebFrontエンジニア -> マネージャー
 - 現在2社目。現職は株式会社レアジョブ
 - スタートアップ・自社サービス開発経験あり
 - サービスローンチ/グロースどちらも経験あり
 - Qiita,技術ブロクにも定期的に投稿している
 - 勉強会で時折登壇している
 - 本業以外にも副業で開発業務、メンター業務、技術顧問を行っている
+- 採用・組織・マネジメントへの関心が高い
+- 海外との競業経験あり
+- 日本語の喋れない外国人の部下育成経験あり
 
 ## Status
 
@@ -43,17 +46,17 @@
 |名前| 実務で利用した期間 |備考|
 |---|-----|---|
 |Swift| 6年 | MVC/MVVM/Rx |
-|kotlin| 4年 | MVC/MVVM/Rx |
-|PHP| 3年 | Laravel/CakePHP |
+|kotlin| 5年 | MVC/MVVM/Rx |
+|PHP| 5年 | Laravel/CakePHP |
 |Javascript/Typescript| 3年 | Vue/Nuxt |
 |Go| 2年 Revel |
 |AWS| 3年 | AppSync/DynamoDB/CloudFront/S3/Lamnda/SNS |
-|WebRTC| 2年 | SkyWay |
-|Flutter| 2年 |  |
-|Firebase| 2年 |
+|WebRTC| 3年 | SkyWay |
+|Flutter| 3年 |  |
+|Firebase| 3年 |
 |Python| 1年 | Fabric |
 |Electron| 1年 | |
-|docker| 3年 | |
+|docker| 4年 | |
 
 
 - **ツール、その他**
@@ -69,6 +72,7 @@
   - Figma
   - CodeMagic
   - PlantUML
+  - Notion
 
 ## Job details
 
@@ -199,13 +203,3 @@ https://speakerdeck.com/jumbo_ken
 - [NASA Space App Challenge 2014 Land Slide Tracker](https://2014.spaceappschallenge.org/project/landslide-tracker/)
 
 その他大学院時代にハッカソンにおいていくつも受賞。
-
-
-## why globis
-
-> 「今の自分が出せないような、より建設的で納得感のある意見を出せるようになる」
-
-ことを目指します。
-エンジニアとしてものづくりをしていくときに How はもちろん非常に重要ですが、それ以上に今は現職のマネージャーとして Why/What を重要視しなければいけない役割を担っています。どんなに素晴らしい設計や頑健なシステムがあろうとも、その意義や達成目的が本質的ではないことは事業の継続に大きく影響すると考えています。一方で今は自分の経験則や眼の前にある情報から安直な発言しかできておらず、ここしばらくこの状況が変わっておらず伸び悩んでいるように感じています。今回の受講はその改善を期待しています。
-
-「論理的に考える力」は様々な手法があり、書籍からこれを知ることはできても実践する場はなかなかなく、またできたとしてもそのアクションが有効であったか・正しいかどうかの議論までは難しいため、今回のカリキュラムを通じて体系化された手法を学び、実践していくことで自分のスキルとして落とし込みたいと思います。

@@ -1,6 +1,6 @@
 # 職務経歴書
 
-最終更新 2021/08/11
+最終更新 2021/11/19
 
 ## 基本情報
 
@@ -45,18 +45,17 @@
 
 |名前| 実務で利用した期間 |備考|
 |---|-----|---|
-|Swift| 6年 | MVC/MVVM/Rx |
-|kotlin| 5年 | MVC/MVVM/Rx |
+|Swift| 7年 | MVC/MVVM/Rx |
+|kotlin| 7年 | MVC/MVVM/Rx |
 |PHP| 5年 | Laravel/CakePHP |
-|Javascript/Typescript| 3年 | Vue/Nuxt |
-|Go| 2年 Revel |
+|Javascript/Typescript| 5年 | Vue/Nuxt |
+|Go| 3年 Revel |
 |AWS| 3年 | AppSync/DynamoDB/CloudFront/S3/Lamnda/SNS |
 |WebRTC| 3年 | SkyWay |
 |Flutter| 3年 |  |
 |Firebase| 3年 |
 |Python| 1年 | Fabric |
 |Electron| 1年 | |
-|docker| 4年 | |
 
 
 - **ツール、その他**
@@ -86,7 +85,7 @@ iOSエンジニアとして入社し、アプリ事業立ち上げ。一人で�
 | 2016/06<br />〜<br />2018/3 | レアジョブアプリの立ち上げ、グロース                                                                                                                                                                            | iOSエンジニア 1名  |
 | 2018/04<br />〜<br />2019/3 | フロントエンドチーム チームリーダーに就任 アプリ・フロントエンドチームの立ち上げ                                                                                                                                                                            | iOSエンジニア 2名、フロントエンド2名  |
 | 2019/04<br />〜<br />2020/3 | 技術本部 副部長 兼 デザインチーム チームリーダー就任                                                                                                                                                                            | 総勢 16名  |
-| 2020/04<br />〜<br />現在 | 技術本部 部長                                                                                                                                                                            | 総勢 18名  |
+| 2020/04<br />〜<br />現在 | 技術本部 部長                                                                                                                                                                            | 総勢 20名  |
 
 #### 概要(レアジョブアプリ iOS/Androidアプリ立ち上げからマネジメントへ)
 

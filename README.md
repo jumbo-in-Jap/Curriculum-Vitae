@@ -213,7 +213,7 @@ etc...
 |AWS| 6年 | EC2/ECS/AppSync/DynamoDB/CloudFront/S3/Lamnda/SNS | 設計・開発ができる |
 |WebRTC| 6年 | SkyWay | 設計・開発ができる |
 |Flutter| 5年 |  | 設計・開発ができる |
-|Firebase| 5年 | 設計・開発ができる |
+|Firebase| 5年 | | 設計・開発ができる |
 |Python| 1年 | Fabric | 実務で利用できる |
 |Electron| 1年 | | 実務で利用できる |
 

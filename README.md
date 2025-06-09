@@ -303,8 +303,8 @@ https://speakerdeck.com/jumbo_ken
 ### 受賞歴
 
 - [AppleTV Best 2016 LandSkip](https://itunes.apple.com/jp/app/landskip/id1111943016?mt=8)
-- [HackDay 2016 優勝](https://hackday.jp/2016/)
-- [MashUpAward2015 準優勝](http://hacklog.jp/works/3379)
+- HackDay 2016 優勝
+- MashUpAward2015 準優勝
 - [NASA Space App Challenge 2014 Land Slide Tracker](https://2014.spaceappschallenge.org/project/landslide-tracker/)
 
 その他大学院時代にハッカソンにおいていくつも受賞。
